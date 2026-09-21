@@ -1,8 +1,8 @@
 # Calculadora e Analisador de Consumo de Água
 
-![PyPI Python Version](https://img.shields.io/pypi/pyversions/python)
-![PyPI Python Version](https://img.shields.io/pypi/pyversions/GitHub)
-![PyPI Python Version](https://img.shields.io/pypi/pyversions/Energia)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=yellow)
+![GitHub stars](https://img.shields.io/github/stars/seu-usuario/seu-repo?style=for-the-badge&logo=github)
+![Energia Renovável](https://img.shields.io/badge/Energia-Renov%C3%A1vel-success?style=for-the-badge&logo=icloud&logoColor=white)
 
 Programa desenvolvido em Python para analisar o consumo mensal de água com base na categoria do usuário (comercial, casa ou apartamento) e fornecer recomendações personalizadas de uso.
 

@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Energia Renovável](https://img.shields.io/badge/Energia-Renov%C3%A1vel-success?style=for-the-badge&logo=icloud&logoColor=white)
+![Static Badge](https://img.shields.io/badge/energia-consumo)
 
 Programa desenvolvido em Python para analisar o consumo mensal de água com base na categoria do usuário (comercial, casa ou apartamento) e fornecer recomendações personalizadas de uso.
 
